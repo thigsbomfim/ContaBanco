@@ -23,7 +23,7 @@ cd ContaBanco
 ```
 3. Compile o código:
 ```
-javac ContaTerminal
+javac ContaTerminal.java
 ```
 4. Execute o programa:
 ```
